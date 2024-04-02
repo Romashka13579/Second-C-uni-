@@ -1,0 +1,10 @@
+﻿  ConsoleApplication5.cpp
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(104,11): warning C4101: 'fw': unreferenced local variable
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(175,24): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(200,22): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(201,22): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(202,22): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(232,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(232,65): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(309,31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication5.vcxproj -> C:\Users\rroma\Projects\C\ConsoleApplication5\Debug\ConsoleApplication5.exe

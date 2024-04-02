@@ -1,0 +1,57 @@
+﻿  ConsoleApplication5.cpp
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(7,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(9,9): error C2065: 'MOV': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(9,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(9,13): error C2065: 'eax': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(10,9): error C2146: syntax error: missing ';' before identifier 'MOV'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(10,9): error C2065: 'MOV': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(10,13): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(10,13): error C2065: 'ebx': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(11,9): error C2146: syntax error: missing ';' before identifier 'ADD'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(11,9): error C2065: 'ADD': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(11,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(11,13): error C2065: 'eax': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(11,18): error C2065: 'ebx': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(12,9): error C2146: syntax error: missing ';' before identifier 'MOV'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(12,9): error C2065: 'MOV': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(12,13): error C2146: syntax error: missing ';' before identifier 'result'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(12,21): error C2065: 'eax': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(13,5): error C2143: syntax error: missing ';' before '}'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(19,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(21,9): error C2065: 'MOV': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(21,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(21,13): error C2065: 'eax': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(22,9): error C2146: syntax error: missing ';' before identifier 'SHL'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(22,9): error C2065: 'SHL': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(22,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(22,13): error C2065: 'eax': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(23,9): error C2146: syntax error: missing ';' before identifier 'MOV'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(23,9): error C2065: 'MOV': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(23,13): error C2146: syntax error: missing ';' before identifier 'result'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(23,21): error C2065: 'eax': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(24,5): error C2143: syntax error: missing ';' before '}'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(30,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(32,9): error C2065: 'MOV': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(32,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(32,13): error C2065: 'eax': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(33,9): error C2146: syntax error: missing ';' before identifier 'CMP'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(33,9): error C2065: 'CMP': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(33,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(33,13): error C2065: 'eax': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(34,9): error C2146: syntax error: missing ';' before identifier 'JG'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(34,9): error C2065: 'JG': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(34,12): error C2146: syntax error: missing ';' before identifier 'niekam'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(34,12): error C2065: 'niekam': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(35,9): error C2146: syntax error: missing ';' before identifier 'ADD'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(35,9): error C2065: 'ADD': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(35,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(35,13): error C2065: 'eax': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(36,9): error C2146: syntax error: missing ';' before identifier 'niekam'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(37,9): error C2065: 'ADD': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(37,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(37,13): error C2065: 'eax': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(38,9): error C2146: syntax error: missing ';' before identifier 'MOV'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(38,9): error C2065: 'MOV': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(38,13): error C2146: syntax error: missing ';' before identifier 'result'
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(38,21): error C2065: 'eax': undeclared identifier
+C:\Users\rroma\Projects\C\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(39,5): error C2143: syntax error: missing ';' before '}'
